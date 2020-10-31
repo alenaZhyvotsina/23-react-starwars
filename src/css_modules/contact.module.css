@@ -1,0 +1,21 @@
+.contacts {
+    padding: 20px;
+}
+
+.contacts label {
+    margin-top: 30px;
+}
+
+.contacts input select, textarea {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 3px;
+    resize: vertical
+}
+
+.contacts textarea {
+    height: 300px;
+    margin-bottom: 20px;
+}
+
